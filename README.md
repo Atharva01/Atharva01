@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Atharva!
+## 👋 Hi, I'm Atharva!
 
 🚀 **LLM Engineer | AI Researcher | NLP & MLOps Enthusiast**  
 
 I specialize in **building, fine-tuning, and optimizing Large Language Models (LLMs)** for real-world applications. Passionate about **NLP, RAG, Prompt Engineering, and AI Infrastructure**.  
 
-## 🔧 Tech Stack
+### 🔧 Tech Stack
 - **Languages:** Python, SQL, Bash  
 - **Frameworks:** PyTorch, Hugging Face, LangChain, Flask, FastAPI, Streamlit
 - **Cloud & MLOps:** Azure, Docker, Kubernetes, CI/CD  
