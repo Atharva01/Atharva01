@@ -6,7 +6,7 @@ I specialize in **building, fine-tuning, and optimizing Large Language Models (L
 
 ## 🔧 Tech Stack
 - **Languages:** Python, SQL, Bash  
-- **Frameworks:** PyTorch, Hugging Face, LangChain
+- **Frameworks:** PyTorch, Hugging Face, LangChain, Flask, FastAPI, Streamlit
 - **Cloud & MLOps:** Azure, Docker, Kubernetes, CI/CD  
 - **Databases:** PostgreSQL, Pinecone, ChromaDB
  
