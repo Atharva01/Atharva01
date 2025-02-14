@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Atharva!
 
-<!--
-**Atharva01/Atharva01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **LLM Engineer | AI Researcher | NLP & MLOps Enthusiast**  
 
-Here are some ideas to get you started:
+I specialize in **building, fine-tuning, and optimizing Large Language Models (LLMs)** for real-world applications. Passionate about **NLP, RAG, Prompt Engineering, and AI Infrastructure**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages:** Python, SQL, Bash  
+- **Frameworks:** PyTorch, Hugging Face, LangChain
+- **Cloud & MLOps:** Azure, Docker, Kubernetes, CI/CD  
+- **Databases:** PostgreSQL, Pinecone, ChromaDB
+ 
+📫 **Let's Connect:**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/atharvadharmadhikari/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Atharva01)  
+
+---
+
+🌱 **Always learning and exploring AI safety, RLHF, and multimodal LLMs!**
