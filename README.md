@@ -11,6 +11,7 @@ I specialize in **building, fine-tuning, and optimizing Large Language Models (L
 - **Databases:** PostgreSQL, Pinecone, ChromaDB
  
 📫 **Let's Connect:**  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/atharvadharmadhikari/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Atharva01)  
 
