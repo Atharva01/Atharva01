@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Atharva!
 
-🚀 **LLM Engineer | AI Researcher | NLP & MLOps Enthusiast**  
+🚀 **ML Engineer | AI Researcher | NLP & MLOps Enthusiast**  
 
 I specialize in **building, fine-tuning, and optimizing Large Language Models (LLMs)** for real-world applications. Passionate about **NLP, RAG, Prompt Engineering, and AI Infrastructure**.  
 
