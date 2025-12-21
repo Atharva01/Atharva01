@@ -13,6 +13,11 @@ Building interpretable, production-grade AI systems.
 - Grad-CAM heatmap visualization
 - 53 comprehensive tests (100% pass rate)
 
+### [Transformer from scratch](https://github.com/Atharva01/Transformer-from-Scratch)
+*Implementation from transformer architecture using Pytorch*
+- Built transformer architecture from scratch using PyTorch with complete encoder-decoder implementation.
+- Trained and validated sequence-to-sequence translation model
+  
 ---
 
 ## 🛠 Tech Stack
