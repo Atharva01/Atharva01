@@ -1,20 +1,31 @@
-## 👋 Hi, I'm Atharva!
+# Atharva Dharmadhikari
 
-🚀 **ML Engineer | AI Researcher | NLP & MLOps Enthusiast**  
-
-I specialize in **building, fine-tuning, and optimizing Large Language Models (LLMs)** for real-world applications. Passionate about **NLP, RAG, Prompt Engineering, and AI Infrastructure**.  
-
-### 🔧 Tech Stack
-- **Languages:** Python, SQL, Bash  
-- **Frameworks:** PyTorch, Hugging Face, LangChain, Flask, FastAPI, Streamlit
-- **Cloud & MLOps:** Azure, Docker, CI/CD  
-- **Vector Databases:** Pinecone, ChromaDB
- 
-📫 **Let's Connect:**  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/atharvadharmadhikari/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Atharva01)  
+**ML Engineer | AI Researcher**  
+Building interpretable, production-grade AI systems.
 
 ---
 
-🌱 **Always learning and exploring AI safety, RLHF, and multimodal LLMs!**
+## 🔬 Research Projects
+
+### [Grad-CAM Explainability System](https://github.com/Atharva01/gradcam-explainability-system)
+*Visual explanations for CNN predictions using Grad-CAM*
+- FastAPI + PyTorch + ResNet18
+- Grad-CAM heatmap visualization
+- 53 comprehensive tests (100% pass rate)
+
+---
+
+## 🛠 Tech Stack
+
+**ML/AI:** PyTorch · Hugging Face · LangChain  
+**Backend:** FastAPI · Flask · Streamlit  
+**DevOps:** Docker · CI/CD · Azure  
+**Data:** SQL · Vector Databases (Pinecone, ChromaDB)  
+
+---
+
+## 📍 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/atharvadharmadhikari/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Atharva01)
+
