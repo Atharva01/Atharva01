@@ -13,6 +13,11 @@ Building interpretable, production-grade AI systems.
 - Grad-CAM heatmap visualization
 - 53 comprehensive tests (100% pass rate)
 
+### [Brain Tumor Segmentation](https://github.com/Atharva01/Brain-Tumor-Segmentation-3DUNET)
+*Voxel-wise segmentation of the tumor mapping distinct tumor subregions including whole tumor, tumor core, and enhancing tumor regions.*
+- Build a 3D-UNET architecture to perform brain tumor segmentation on multi-modal MRI scans (BraTS dataset), processing T1ce, T2, and FLAIR imaging modalities.
+- Fully modularized pipeline with separate, reusable components for preprocessing, dataset handling, model definition, training, evaluation, and visualization.
+  
 ### [Transformer from scratch](https://github.com/Atharva01/Transformer-from-Scratch)
 *Implementation from transformer architecture using Pytorch*
 - Built transformer architecture from scratch using PyTorch with complete encoder-decoder implementation.
