@@ -1,6 +1,6 @@
 # Atharva Dharmadhikari
 
-**ML Engineer | AI Researcher**  
+**ML Engineer | MultiModal AI **  
 Building interpretable, production-grade AI systems.
 
 ---
