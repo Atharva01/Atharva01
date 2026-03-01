@@ -11,7 +11,7 @@ Building interpretable, production-grade AI systems.
 *Visual explanations for CNN predictions using Grad-CAM*
 - FastAPI + PyTorch + ResNet18
 - Grad-CAM heatmap visualization
-- 53 comprehensive tests (100% pass rate)
+- Explainable AI 
 
 ### [Brain Tumor Segmentation](https://github.com/Atharva01/Brain-Tumor-Segmentation-3DUNET)
 *Voxel-wise segmentation of the tumor mapping distinct tumor subregions including whole tumor, tumor core, and enhancing tumor regions.*
