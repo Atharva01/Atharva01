@@ -1,10 +1,3 @@
-# Atharva Dharmadhikari
-
-**ML Engineer | MultiModal AI**  
-Building interpretable, production-grade AI systems.
-
----
-
 ## 🔬 Research Projects
 
 ### [Grad-CAM Explainability System](https://github.com/Atharva01/gradcam-explainability-system)
