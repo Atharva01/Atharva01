@@ -38,7 +38,8 @@
 </picture>
 
 </div>
-## 📍 Connect
+
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/atharvadharmadhikari/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Atharva01)
