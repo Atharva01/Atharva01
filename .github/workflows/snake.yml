@@ -1,6 +1,9 @@
 name: Generate Snake
 
 on:
+  push:
+    branches:
+      - main  # or 'master', depending on your default branch name
   schedule:
     - cron: "0 0 * * *"  # runs daily
   workflow_dispatch:
