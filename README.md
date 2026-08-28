@@ -1,6 +1,6 @@
 ## 🔬 Projects
 
-### [RagRefine: Post retrival refinement library](https://github.com/Atharva01/ragrefine)
+### [RagRefine: Post retrieval refinement library](https://github.com/Atharva01/ragrefine)
 *Lightweight retrieval refinement for RAG systems*
 - Retriever-agnostic refinement library for RAG and agentic AI workflows
 - Implemented neural, lexical, and pattern-based ranking with deterministic RRF, duplicate suppression, and Top-K/token
