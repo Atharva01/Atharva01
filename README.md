@@ -1,4 +1,11 @@
-## 🔬 Research Projects
+## 🔬 Projects
+
+### [RagRefine: Post retrival refinement library](https://github.com/Atharva01/ragrefine)
+*Lightweight retrieval refinement for RAG systems*
+- Retriever-agnostic refinement library for RAG and agentic AI workflows
+- Implemented neural, lexical, and pattern-based ranking with deterministic RRF, duplicate suppression, and Top-K/token
+budget context selection, giving agents smaller, higher-signal context with auditable traces.
+- Built reproducible BEIR/Ragas evaluation
 
 ### [Grad-CAM Explainability System](https://github.com/Atharva01/gradcam-explainability-system)
 *Visual explanations for CNN predictions using Grad-CAM*
