@@ -46,6 +46,8 @@ budget context selection, giving agents smaller, higher-signal context with audi
 
 </div>
 
+[![An image of @atharva01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atharva01)](https://holopin.io/@atharva01)
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/atharvadharmadhikari/)
